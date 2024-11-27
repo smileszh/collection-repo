@@ -6,8 +6,8 @@
 
 ### Biology
 
-- Computational-method-for-single-cell-data-analysis
-- Bioinformatics for Cancer Immunotherapy 
+- Computational Method for Single-Cell Data Analysis
+- [Bioinformatics for Cancer Immunotherapy](./books/Bioinformatics-for-Cancer-Immunotherapy.pdf)
 
 
 
